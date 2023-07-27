@@ -1,5 +1,32 @@
 .App {
   text-align: center;
+  
+}
+*{
+  background-color: blueviolet;
+  color:black
+}
+.inp{
+  background-color: white;
+  width: 50vw;
+}
+#blog{
+  height: 40vh;
+  width: 60vw;
+  text-align: center;
+  padding-top: 10%;
+} 
+#title{
+  height: 7vh;
+  text-align: center;
+
+}
+#list{
+  color : blue;
+
+}
+.view{
+  padding-top: 10%;
 }
 
 .App-logo {
@@ -12,6 +39,9 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+ 
+
 
 .App-header {
   background-color: #282c34;
